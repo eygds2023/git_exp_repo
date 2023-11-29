@@ -1,4 +1,5 @@
 Here to learn git. 
 Hi, here new branc
 Hi lets add one more line 
-Ok Ok lets git it
+Ok Ok lets git i
+so a new branch has been created of different names
